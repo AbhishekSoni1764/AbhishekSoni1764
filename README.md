@@ -1,9 +1,20 @@
-
-[![MasterHead](https://i.pinimg.com/originals/d4/b0/04/d4b004a0e2210a0700e58c42ae89360a.gif)](https://wad-minimal-portfolio.vercel.app/)
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=D7D7D7&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+My+Github+Profile.;I+am+a+Front-End+Developer+and+Designer" alt="Typing SVG" /></a></p>
+<br>
+<div display="flex">
+  <div align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  </div>
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300">
+  </div>
+  <div align="right">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  </div>
+</div>
 
 # 💫 About Me:
-🔭 I’m currently working on CODING SKILLS.<br>🌱 I’m currently learning NEXT.JS and DSA.<br>👯 I’m looking to collaborate on WEB DEVELOPMENT PROJECTS.<br>💬 Ask me about HTML , CSS and JAVASCRIPT.<br>📫 How to reach me abhisoni1764@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/AbhishekSoni1764<br>⚡ Fun fact Helium has the ability to work against gravity.<br>
+🔭 I’m currently working on CODING SKILLS.<br>🌱 I’m currently learning REACT and DSA.<br>👯 I’m looking to collaborate on WEB DEVELOPMENT PROJECTS.<br>💬 Ask me about HTML , CSS and JAVASCRIPT.<br>📫 How to reach me abhisoni1764@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/AbhishekSoni1764<br>⚡ Fun fact Helium has the ability to work against gravity.<br>
 
 
 ## 🌐 Socials:
@@ -19,13 +30,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhishekSoni1764&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbhishekSoni1764&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhishekSoni1764&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
