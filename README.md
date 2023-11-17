@@ -1,8 +1,10 @@
+
 [![MasterHead](https://i.pinimg.com/originals/d4/b0/04/d4b004a0e2210a0700e58c42ae89360a.gif)](https://wad-minimal-portfolio.vercel.app/)
+
 
 # 💫 About Me:
 🔭 I’m currently working on CODING SKILLS.<br>🌱 I’m currently learning NEXT.JS and DSA.<br>👯 I’m looking to collaborate on WEB DEVELOPMENT PROJECTS.<br>💬 Ask me about HTML , CSS and JAVASCRIPT.<br>📫 How to reach me abhisoni1764@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/AbhishekSoni1764<br>⚡ Fun fact Helium has the ability to work against gravity.<br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010520289177) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iamabhishek_237/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-soni-39472a173/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhishe45026080) 
