@@ -14,7 +14,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on FRONTEND DEVELOPMENT.<br>🌱 I’m currently learning REACT.<br>👯 I’m looking to collaborate on WEB DEVELOPMENT PROJECTS.<br>💬 Ask me about HTML , CSS and JAVASCRIPT.<br>📫 How to reach me abhisoni1764@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/AbhishekSoni1764<br>⚡ Fun fact Helium has the ability to work against gravity.<br>
+🔭 I’m currently working on FRONTEND DEVELOPMENT.<br>🌱 I’m currently learning REACT.<br>👯 I’m looking to collaborate on WEB DEVELOPMENT PROJECTS.<br>💬 Ask me about HTML , CSS and JAVASCRIPT.<br>📫 How to reach me abhisoni1764@gmail.com<br>👨‍💻 LinkedIn https://www.linkedin.com/in/abhishek-soni-39472a173/ <br>⚡ Fun fact Helium has the ability to work against gravity.<br>
 
 
 ## 🌐 Socials:
