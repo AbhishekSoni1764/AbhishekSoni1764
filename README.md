@@ -116,7 +116,8 @@
   <br>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekSoni1764&theme=tokyonight&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-    <img align="center" src="https://streak-stats.demolab.com/?user=AbhishekSoni1764&theme=tokyonight" alt="GitHub Stats">
+
+    <img align="center" src="https://streak-stats.demolab.com/?user=AbhishekSoni1764&theme=tokyonight" alt="GitHub Stat-Streak">
   </p>
 </details>
 
